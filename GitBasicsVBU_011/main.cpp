@@ -6,6 +6,15 @@ using namespace std;
 #define CHESS
 //#define ARRAYS
 
+//(VCS - Version Control System)
+//SVN, Subversion, Jira... Git
+//						   GitHub
+//Repository - это хранилище исходных кодов
+//GitHub, remote
+//Commit-ы -- Контрольные точки
+//History
+//push
+
 void main()
 // Здравствуйте Олег. Сделала только последний треугольник
 //Пыталась сделать ромб, беда в том что (пробелы, палки, потом снова пробелы...) 
